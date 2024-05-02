@@ -167,10 +167,10 @@ EMAIL_HOST = 'localhost'
 EMAIL_HOST_USER = ''
 EMAIL_HOST_PASSWORD = ''
 EMAIL_PORT = 2525
-DEFAULT_FROM_EMAIL = 'from@moshbuy.com'
+DEFAULT_FROM_EMAIL = 'from@alfabuy.com'
 
 ADMINS = [
-    ('Mosh', 'admin@moshbuy.com')
+    ('alfa', 'admin@alfabuy.com')
 ]
 
 
